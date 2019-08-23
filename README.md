@@ -10,6 +10,7 @@ The app gives you Weather of the current city from the Input provided. If the Ci
 The Folder Structure should be : 
 
 Weather_App_Flask/app.py
+
 Weather_App_Flask/templates/weather.html
                  
  
